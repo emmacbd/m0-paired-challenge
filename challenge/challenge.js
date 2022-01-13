@@ -6,4 +6,4 @@ var isOverdue = true
 var booksAvailable = 300
 var favoriteBook = "Rain Makes Applesauce"
 
-var bookTitles = ["Me Talk Pretty One Day", "The Caring and Keeping of You", "Blueberries for Sal"
+var bookTitles = ["Me Talk Pretty One Day", "The Caring and Keeping of You", "Blueberries for Sal"]
